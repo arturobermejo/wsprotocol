@@ -1,0 +1,17 @@
+<script type="text/javascript">
+    var ws = new WebSocket("ws://localhost:5000");
+
+    ws.onopen = function(e) {
+        console.log(e);
+    }
+
+    ws.onmessage = function(e) {
+        console.log(e);
+    }
+
+    ws.onclose = function(e) {
+        console.log(e);
+    }
+
+    window.ws = ws;
+</script>
