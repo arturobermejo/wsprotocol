@@ -1,4 +1,4 @@
 # wsprotocol
 Example of websocket protocol implementation (server)
 
-Related article: [Implementando el protocolo websocket en Python (video)](http://arturobermejo.com/implementando-protocolo-websocket-en-python.html)
+Watch Video: [Implementando el protocolo websocket en Python (video)](https://www.youtube.com/watch?v=RBQxodFeuMo)
